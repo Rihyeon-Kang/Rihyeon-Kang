@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rihyeon-Kang
 - 🌱 I’m currently a PhD student in Department of Economics at UCSB.
-- 📫 If you want to reach me, please send an email to rkang@ucsb.edu.
+- 📫 To reach me, please send an email to rkang@ucsb.edu.
